@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>ar - 标签 - 斗极元宇宙导航</title>
+        <title>AR - 标签 - 斗极元宇宙导航</title>
         <link>https://www.metabd.cc/tags/ar/</link>
-        <description>ar - 标签 - 斗极元宇宙导航</description>
+        <description>AR - 标签 - 斗极元宇宙导航</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
             <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Thu, 21 Jul 2022 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/ar/" rel="self" type="application/rss+xml" /><item>
     <title>元宇宙发展趋势</title>
@@ -51,14 +51,6 @@
                 <img src="/4645313.jpg" referrerpolicy="no-referrer">
             </div>朱嘉明 | 元宇宙应用潜力最大的领域是教育“元宇宙”概念爆红，腾讯、字节跳动等企业纷纷布局，与之相关的概念股在备受 市场追捧的同时也引发监管关注。]]></description>
 </item><item>
-    <title>元宇宙的帝国游戏篇：迈入穿戴设备时代，助力数字经济发展</title>
-    <link>https://www.metabd.cc/news/20220706-02-llp1212/</link>
-    <pubDate>Wed, 06 Jul 2022 21:57:40 &#43;0800</pubDate><author>
-                    <name>june</name><uri>https://www.metabd.cc/authors/june</uri></author><guid>https://www.metabd.cc/news/20220706-02-llp1212/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/di.png" referrerpolicy="no-referrer">
-            </div>游戏作为最接近元宇宙的应用形态，迭代发展中关注精品内容及平台价值在元宇宙推动下，游戏有望达到“游戏即平台”的下一发展阶段，成为承载元宇宙活动]]></description>
-</item><item>
     <title>Aireal</title>
     <link>https://www.metabd.cc/navigation/aireal/</link>
     <pubDate>Fri, 25 Mar 2022 21:57:40 &#43;0800</pubDate><author>
@@ -82,5 +74,13 @@
     <description><![CDATA[<div class="featured-image">
                 <img src="/328.jpg" referrerpolicy="no-referrer">
             </div>Avegant AR Technology。光引擎是每个增强现实产品的核心。基于多年的光引擎设计和制造，Avegant 提供了能够实现紧凑、高效和可制造的 AR 光引]]></description>
+</item><item>
+    <title>Blippar</title>
+    <link>https://www.metabd.cc/navigation/blippar/</link>
+    <pubDate>Fri, 25 Mar 2022 21:57:40 &#43;0800</pubDate><author>
+                    <name>june</name><uri>https://www.metabd.cc/authors/june</uri></author><guid>https://www.metabd.cc/navigation/blippar/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/324.jpg" referrerpolicy="no-referrer">
+            </div>Our augmented reality creation tools and accessible Studio will make your AR dreams a (new) reality。我们的 SDK 为您提供强大的 AR 技术。我们简单易用、最先进的开发工具包可让您立即为现有网站创建引人注目]]></description>
 </item></channel>
 </rss>
