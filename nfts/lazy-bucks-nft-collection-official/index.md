@@ -1,0 +1,11 @@
+# LAZY BUCKS NFT COLLECTION
+
+LAZY BUCKS NFT 是 1881 个 NFT 的集合，配备 150 多种手绘特征，适合各种野生动物探险。LAZY BUCKS NFT 系列 NFT - 常见问题 (FAQ)
+▶ 什么是 LAZY BUCKS NFT 系列？
+LAZY BUCKS NFT COLLECTION 是一个 NFT（非同质代币）集合。存储在区块链上的数字收藏品集合。
+▶ 存在多少 LAZY BUCKS NFT COLLECTION 代币？
+BUCKS NFT COLLEC 6 个 LAZ 有一个 LAZTION LAZY NFT COLLECFT。目前，6 个字节的中间至少有一个 BUCKS NFT 有 NTF。
+▶最近一次UCTION KS NFT COLL？
+过去 30 Y 售出 BUCKS NFT CO 0 LAZKS NFT NFT。过去 7 天内没有出售 LAZY BUCKS NFT COLLECTION。
+
+![nft](unnamed.png)

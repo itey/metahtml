@@ -4,7 +4,15 @@
         <link>https://www.metabd.cc/nfts/exchanges/</link>
         <description>Exchanges - NFT项目 - 斗极元宇宙导航</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
-            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Mon, 22 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/nfts/exchanges/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Thu, 25 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/nfts/exchanges/" rel="self" type="application/rss+xml" /><item>
+    <title>Dark Knight</title>
+    <link>https://www.metabd.cc/nfts/dark-knight/</link>
+    <pubDate>Thu, 25 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/dark-knight/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/dark-knight.png" referrerpolicy="no-referrer">
+            </div>在 Dark Knight，我们开发了一个共生生态系统，通过旨在最大限度地提高上行潜力同时限制错误的工具来帮助投资者加速他们的财富创造。以 DeFi 最可持续的]]></description>
+</item><item>
     <title>token.store EOS</title>
     <link>https://www.metabd.cc/nfts/token-store-eos/</link>
     <pubDate>Mon, 22 Aug 2022 00:00:00 &#43;0800</pubDate><author>
@@ -76,13 +84,5 @@
     <description><![CDATA[<div class="featured-image">
                 <img src="/yolo.png" referrerpolicy="no-referrer">
             </div>YOLO是一个分散的交易所，旨在在EOS网络上提供无摩擦的令牌交换体验。它是为每个人准备的 — 从新手到交易忍者。在YOLO上交换代币非常简单（]]></description>
-</item><item>
-    <title>Yoshi Exchange</title>
-    <link>https://www.metabd.cc/nfts/yoshi-exchange/</link>
-    <pubDate>Mon, 22 Aug 2022 00:00:00 &#43;0800</pubDate><author>
-                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/yoshi-exchange/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/yoshi-exchange.png" referrerpolicy="no-referrer">
-            </div>吉。exchange（以下简称“Yoshi”）是一个基于Fantom区块链的DEX聚合器 它从与我们合作的DEX es中获取交易，以允许我们的用]]></description>
 </item></channel>
 </rss>

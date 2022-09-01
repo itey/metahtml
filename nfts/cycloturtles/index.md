@@ -1,0 +1,7 @@
+# CycloTurtles by NotEssential
+
+NotEssential NFT的CycloTurtles在过去7天内售出1次。NotEssential的CycloTurtles的总销量为54.89美元。NotEssential NFT的一个CycloTurtles的平均价格为54.9美元。NotEssential所有者有443个CycloTurtles，总共拥有1，953个代币。
+
+欢迎来到绿筹NFT运动。NotEssential的第一个NFT集合|CycloTurtles，代表了CycloVerse的第一章。总的来说，我们的目标是通过CycloVerse的所有四个阶段将具有社会责任感的投资者聚集在一起，每个阶段都代表了我们的四个核心价值观，长寿，繁荣，智慧和自由。CycloTurtles是4444个随机生成的NFT，所有权证明存储在以太坊（ERC 721）网络上。CycloTurtles是一个独特的集合，具有200个特征和属性组合。
+
+![nft](unnamed.png)
