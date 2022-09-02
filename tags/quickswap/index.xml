@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>QuickSwap - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/quickswap/</link>
+        <description>QuickSwap - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Thu, 25 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/quickswap/" rel="self" type="application/rss+xml" /><item>
+    <title>QuickSwap</title>
+    <link>https://www.metabd.cc/nfts/quickswap/</link>
+    <pubDate>Thu, 25 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>Cindy</name><uri>https://www.metabd.cc/authors/cindy</uri></author><guid>https://www.metabd.cc/nfts/quickswap/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/quickswap.png" referrerpolicy="no-referrer">
+            </div>QuickSwap 是基于以太坊的无许可去中心化交易所 (DEX)，由 Matic Network 的第 2 层可扩展性基础设施提供支持。通过利用第 2 层进行交易，QuickSwap 用户将能够]]></description>
+</item></channel>
+</rss>

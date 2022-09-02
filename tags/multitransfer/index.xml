@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Multitransfer - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/multitransfer/</link>
+        <description>Multitransfer - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Mon, 22 Aug 2022 14:57:40 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/multitransfer/" rel="self" type="application/rss+xml" /><item>
+    <title>Multitransfer</title>
+    <link>https://www.metabd.cc/nfts/multitransfer/</link>
+    <pubDate>Mon, 22 Aug 2022 14:57:40 &#43;0800</pubDate><author>
+                    <name>Simon</name><uri>https://www.metabd.cc/authors/simon</uri></author><guid>https://www.metabd.cc/nfts/multitransfer/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/multitransfer.png" referrerpolicy="no-referrer">
+            </div>Multitransfer 是一种工具，可让您一次将您的加密货币发送到数百个钱包地址。您只需上传一个 Excel/csv/txt 文件，其中包含您要发送的地址和余额，选择一个代币并在 1 分钟内发送]]></description>
+</item></channel>
+</rss>

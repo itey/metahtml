@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>NameTransfer - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/nametransfer/</link>
+        <description>NameTransfer - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Fri, 19 Aug 2022 14:57:40 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/nametransfer/" rel="self" type="application/rss+xml" /><item>
+    <title>NameTransfer</title>
+    <link>https://www.metabd.cc/nfts/nametransfer/</link>
+    <pubDate>Fri, 19 Aug 2022 14:57:40 &#43;0800</pubDate><author>
+                    <name>Simon</name><uri>https://www.metabd.cc/authors/simon</uri></author><guid>https://www.metabd.cc/nfts/nametransfer/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/nametransfer.png" referrerpolicy="no-referrer">
+            </div>新的转账平台让用户在没有钱包的情况下只使用钱包名称来转账， Trx 让人们记住带有钱包名称的钱包并且他们每次想要转账 Trx 时，都不必检查钱包。这个项目是]]></description>
+</item></channel>
+</rss>

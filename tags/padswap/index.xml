@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>PADSwap - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/padswap/</link>
+        <description>PADSwap - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Tue, 23 Aug 2022 22:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/padswap/" rel="self" type="application/rss+xml" /><item>
+    <title>PADSwap</title>
+    <link>https://www.metabd.cc/nfts/padswap/</link>
+    <pubDate>Tue, 23 Aug 2022 22:00:00 &#43;0800</pubDate><author>
+                    <name>Cindy</name><uri>https://www.metabd.cc/authors/cindy</uri></author><guid>https://www.metabd.cc/nfts/padswap/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/padswap.png" referrerpolicy="no-referrer">
+            </div>PADSwap 是一个去中心化的交易所（简称 DEX）。PADSwap 也是多链，目前在 BSC、Moonriver 和 Moonbeam 上，未来还会有更多。 Binance、Co]]></description>
+</item></channel>
+</rss>

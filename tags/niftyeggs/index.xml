@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>NiftyEggs - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/niftyeggs/</link>
+        <description>NiftyEggs - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Thu, 18 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/niftyeggs/" rel="self" type="application/rss+xml" /><item>
+    <title>NiftyEggs</title>
+    <link>https://www.metabd.cc/nfts/niftyeggs/</link>
+    <pubDate>Thu, 18 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>浮尘</name><uri>https://www.metabd.cc/authors/%E6%B5%AE%E5%B0%98</uri></author><guid>https://www.metabd.cc/nfts/niftyeggs/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/niftyeggs.png" referrerpolicy="no-referrer">
+            </div>通过锁定 ERC20 代币来种植 NFT！ 您可以创建限量版 NFT 来奖励代币社区锁定他们的代币一段时间。或者你可以锁定你的代币并农场已经创建的 NFT。 种植一些 NFT]]></description>
+</item></channel>
+</rss>

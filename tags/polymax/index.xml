@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>PolyMax - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/polymax/</link>
+        <description>PolyMax - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Wed, 24 Aug 2022 14:57:40 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/polymax/" rel="self" type="application/rss+xml" /><item>
+    <title>PolyMax</title>
+    <link>https://www.metabd.cc/nfts/polymax/</link>
+    <pubDate>Wed, 24 Aug 2022 14:57:40 &#43;0800</pubDate><author>
+                    <name>Simon</name><uri>https://www.metabd.cc/authors/simon</uri></author><guid>https://www.metabd.cc/nfts/polymax/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/polymax.png" referrerpolicy="no-referrer">
+            </div>PolyMax 是 Polygon 网络上的一个新的单产农业 Dapp。我们的目标是提供超越市场的价值（我们的存款费用为 3.5%，而其他农场的费用为 4%），同时在 APR 方面不提]]></description>
+</item></channel>
+</rss>

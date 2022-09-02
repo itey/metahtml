@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Orinoco - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/orinoco/</link>
+        <description>Orinoco - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Mon, 22 Aug 2022 20:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/orinoco/" rel="self" type="application/rss+xml" /><item>
+    <title>Orinoco</title>
+    <link>https://www.metabd.cc/nfts/orinoco/</link>
+    <pubDate>Mon, 22 Aug 2022 20:00:00 &#43;0800</pubDate><author>
+                    <name>Cindy</name><uri>https://www.metabd.cc/authors/cindy</uri></author><guid>https://www.metabd.cc/nfts/orinoco/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/orinoco.png" referrerpolicy="no-referrer">
+            </div>Orinoco 是基于 Steem 区块链开发的 P2P 交易平台。在 Orinoco.io，用户可以以当地货币买卖 SBD 和 STEEM 加密货币。]]></description>
+</item></channel>
+</rss>

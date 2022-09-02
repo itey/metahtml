@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>MyWish - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/mywish/</link>
+        <description>MyWish - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Fri, 19 Aug 2022 14:57:40 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/mywish/" rel="self" type="application/rss+xml" /><item>
+    <title>MyWish</title>
+    <link>https://www.metabd.cc/nfts/mywish/</link>
+    <pubDate>Fri, 19 Aug 2022 14:57:40 &#43;0800</pubDate><author>
+                    <name>Simon</name><uri>https://www.metabd.cc/authors/simon</uri></author><guid>https://www.metabd.cc/nfts/mywish/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/mywish.png" referrerpolicy="no-referrer">
+            </div>无代码区块链解决方案，无需编码即可创建智能合约，以最简单的方式创建自己的代币、智能合约、跨链桥和空投，无需在 MyWish 上具备任何编码技能。 主要成就：]]></description>
+</item></channel>
+</rss>

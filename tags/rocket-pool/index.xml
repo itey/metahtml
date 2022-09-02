@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Rocket Pool - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/rocket-pool/</link>
+        <description>Rocket Pool - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Tue, 23 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/rocket-pool/" rel="self" type="application/rss+xml" /><item>
+    <title>Rocket Pool</title>
+    <link>https://www.metabd.cc/nfts/rocket-pool/</link>
+    <pubDate>Tue, 23 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>浮尘</name><uri>https://www.metabd.cc/authors/%E6%B5%AE%E5%B0%98</uri></author><guid>https://www.metabd.cc/nfts/rocket-pool/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/rocket-pool.png" referrerpolicy="no-referrer">
+            </div>Rocket Pool 是第一个真正去中心化的以太坊质押池。流动质押、经审计的 SC 和最小化的处罚风险。与单独的质押者不同，他们需要存入 32 ETH 以创建新的验证者，Roc]]></description>
+</item></channel>
+</rss>

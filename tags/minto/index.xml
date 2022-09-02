@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Minto - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/minto/</link>
+        <description>Minto - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Fri, 19 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/minto/" rel="self" type="application/rss+xml" /><item>
+    <title>Minto</title>
+    <link>https://www.metabd.cc/nfts/minto/</link>
+    <pubDate>Fri, 19 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>seven</name><uri>https://www.metabd.cc/authors/seven</uri></author><guid>https://www.metabd.cc/nfts/minto/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/minto.png" referrerpolicy="no-referrer">
+            </div>Minto 是一个用于挖掘 BTC 的独特 DeFi 平台。Minto (BTCMT) 代币由 100 BTCMT = 1 TH/s 比率的真实采矿设备哈希率支持。Minto 允许用户通过质押 BTCMT 代币获得每日比特币收入]]></description>
+</item></channel>
+</rss>

@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Moonwell - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/moonwell/</link>
+        <description>Moonwell - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Thu, 18 Aug 2022 14:57:40 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/moonwell/" rel="self" type="application/rss+xml" /><item>
+    <title>Moonwell</title>
+    <link>https://www.metabd.cc/nfts/moonwell/</link>
+    <pubDate>Thu, 18 Aug 2022 14:57:40 &#43;0800</pubDate><author>
+                    <name>Simon</name><uri>https://www.metabd.cc/authors/simon</uri></author><guid>https://www.metabd.cc/nfts/moonwell/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/moonwell.png" referrerpolicy="no-referrer">
+            </div>Moonwell 是一个基于 Moonbeam 和 Moonriver 的开放式借贷和去中心化金融协议。Moonwell 的可组合设计可以在更大的 Polkadot 和 Kusama（DotSama）生态系统中容纳全]]></description>
+</item></channel>
+</rss>

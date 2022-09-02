@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>OnChainMonkey - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/onchainmonkey/</link>
+        <description>OnChainMonkey - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Fri, 19 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/onchainmonkey/" rel="self" type="application/rss+xml" /><item>
+    <title>OnChainMonkey</title>
+    <link>https://www.metabd.cc/nfts/onchainmonkey/</link>
+    <pubDate>Fri, 19 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>june</name><uri>https://www.metabd.cc/authors/june</uri></author><guid>https://www.metabd.cc/nfts/onchainmonkey/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/onchainmonkey.png" referrerpolicy="no-referrer">
+            </div>什么是 OnChainMonkey ？ 完全在具有所有这些属性的链 10k 集合上： 所有元数据都在链上，所有图像都在链上（svg 格式）全部在一个 txn 中创建； 所有 10,000 只 OnChain 猴子都是独一无]]></description>
+</item></channel>
+</rss>

@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Nowswap - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/nowswap/</link>
+        <description>Nowswap - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Thu, 18 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/nowswap/" rel="self" type="application/rss+xml" /><item>
+    <title>Nowswap</title>
+    <link>https://www.metabd.cc/nfts/nowswap/</link>
+    <pubDate>Thu, 18 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>浮尘</name><uri>https://www.metabd.cc/authors/%E6%B5%AE%E5%B0%98</uri></author><guid>https://www.metabd.cc/nfts/nowswap/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/nowswap.png" referrerpolicy="no-referrer">
+            </div>Nowswap 是业界第一个在以太坊上的去中心化交易协议，它为 3,000 美元以下的小额交易提供低、动态的交易费用，解决了最大的 DEX 用户服务不足的部分。 Nowswap 背后的团队在]]></description>
+</item></channel>
+</rss>

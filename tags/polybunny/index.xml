@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>PolyBunny - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/polybunny/</link>
+        <description>PolyBunny - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Mon, 22 Aug 2022 14:57:40 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/polybunny/" rel="self" type="application/rss+xml" /><item>
+    <title>PolyBunny</title>
+    <link>https://www.metabd.cc/nfts/polybunny-2/</link>
+    <pubDate>Mon, 22 Aug 2022 14:57:40 &#43;0800</pubDate><author>
+                    <name>Simon</name><uri>https://www.metabd.cc/authors/simon</uri></author><guid>https://www.metabd.cc/nfts/polybunny-2/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/polybunny-2.png" referrerpolicy="no-referrer">
+            </div>PolyBunny 是一个新的、快速增长的 DeFi 收益聚合器，用于 QuickSwap 和 SushiSwap。PolyBunny 协议使农民能够利用他们寻求产量的倾向来优化产量复合策略。]]></description>
+</item></channel>
+</rss>

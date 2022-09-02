@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>One Play - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/one-play/</link>
+        <description>One Play - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Fri, 19 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/one-play/" rel="self" type="application/rss+xml" /><item>
+    <title>One Play</title>
+    <link>https://www.metabd.cc/nfts/one-play/</link>
+    <pubDate>Fri, 19 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>june</name><uri>https://www.metabd.cc/authors/june</uri></author><guid>https://www.metabd.cc/nfts/one-play/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/one-play.png" referrerpolicy="no-referrer">
+            </div>什么是One Play？ One Play 是一个基于区块链的视频内容共享平台，使用 IPFS、EVM 和 ENS。由来自全世界的上传者运营，提供匿名去中心化媒体共]]></description>
+</item></channel>
+</rss>

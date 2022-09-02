@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>MOVE Xchange - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/move-xchange/</link>
+        <description>MOVE Xchange - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Thu, 18 Aug 2022 14:57:40 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/move-xchange/" rel="self" type="application/rss+xml" /><item>
+    <title>MOVE Xchange</title>
+    <link>https://www.metabd.cc/nfts/move-xchange/</link>
+    <pubDate>Thu, 18 Aug 2022 14:57:40 &#43;0800</pubDate><author>
+                    <name>Simon</name><uri>https://www.metabd.cc/authors/simon</uri></author><guid>https://www.metabd.cc/nfts/move-xchange/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/move-xchange.png" referrerpolicy="no-referrer">
+            </div>MOVE Xchange 是一个人工智能驱动的 DEX 聚合器，具有高级交易功能。我们的算法为 BNB 链上的任何交易找到最佳可用利率（未来将提供多链功能），为用户每笔交易提供高]]></description>
+</item></channel>
+</rss>

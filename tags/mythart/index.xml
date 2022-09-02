@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>MythArt - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/mythart/</link>
+        <description>MythArt - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Fri, 19 Aug 2022 14:57:40 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/mythart/" rel="self" type="application/rss+xml" /><item>
+    <title>MythArt</title>
+    <link>https://www.metabd.cc/nfts/mythart/</link>
+    <pubDate>Fri, 19 Aug 2022 14:57:40 &#43;0800</pubDate><author>
+                    <name>Simon</name><uri>https://www.metabd.cc/authors/simon</uri></author><guid>https://www.metabd.cc/nfts/mythart/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/mythart.png" referrerpolicy="no-referrer">
+            </div>MythArt 是一家位于中国的 NFT 工作室。我们旨在降低用户获取 NFT 资产的准入门槛，并为他们提供他们的第一个 NFT 资产。用户可以每 24 小时免费领取一次 NFT。Myt]]></description>
+</item></channel>
+</rss>

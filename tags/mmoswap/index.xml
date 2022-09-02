@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>MMOSwap - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/mmoswap/</link>
+        <description>MMOSwap - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Mon, 22 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/mmoswap/" rel="self" type="application/rss+xml" /><item>
+    <title>MMOSwap</title>
+    <link>https://www.metabd.cc/nfts/mmoswap/</link>
+    <pubDate>Mon, 22 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>seven</name><uri>https://www.metabd.cc/authors/seven</uri></author><guid>https://www.metabd.cc/nfts/mmoswap/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/mmoswap.png" referrerpolicy="no-referrer">
+            </div>MMOSwap 是建立在币安智能链上的 DEX（去中心化交易所），是以太坊和许多不同（去中心化金融）AMM（自动做市商）协议的快速且廉价的替代品，运行在以太]]></description>
+</item></channel>
+</rss>

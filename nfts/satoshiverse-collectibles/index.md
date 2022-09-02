@@ -1,0 +1,7 @@
+# Satoshiverse Collectibles
+
+欢迎来到中本聪！The Satoshiverse是Apollo NFT Studios，Jose Delbo和NFT社区YOU之间的史诗漫画NFT合作。它讲述了我们的英雄，造物主中本聪的故事，以及他从菲亚特的捍卫者和前方的许多其他敌人手中拯救世界的追求。Satoshiverse诞生于2020年10月，当时传奇的DC和Marvel漫画家和第一本NFT漫画书的创作者首次根据他与孙子Nick一起创造的概念为Satoshi The Creator超级英雄绘制插图。
+
+从一开始，社区就对塑造这个漫画世界的故事产生了影响，现在，Delbo与Apollo NFT Studios合作，通过NFT和社区参与彻底改变了漫画的消费方式。Satoshiverse将结合该领域最好的2D和3D艺术家的作品，创建一个基于区块链的超级英雄宇宙，这与您经历过的任何超级英雄世界都不同。美丽的艺术，伟大的故事和社区参与将是中本聪的基础，但这仅仅是个开始。我们的目标是推动NFT技术的界限，为您带来真正独特的东西，并将漫画艺术带入未来。
+
+![nft](微信截图_20220830143403.png)

@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Mintverse - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/mintverse/</link>
+        <description>Mintverse - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Fri, 19 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/mintverse/" rel="self" type="application/rss+xml" /><item>
+    <title>Mintverse</title>
+    <link>https://www.metabd.cc/nfts/mintverse/</link>
+    <pubDate>Fri, 19 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>seven</name><uri>https://www.metabd.cc/authors/seven</uri></author><guid>https://www.metabd.cc/nfts/mintverse/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/mintverse.png" referrerpolicy="no-referrer">
+            </div>Mintverse 是一个综合性的 NFT 聚合器和市场，用户可以在其中轻松创建、发现和收集一系列数字收藏品、游戏 NFT 等。 最初，它支持 BSC 和 ETH，最终将扩展到其他二层解]]></description>
+</item></channel>
+</rss>

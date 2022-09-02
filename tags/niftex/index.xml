@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>NIFTEX - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/niftex/</link>
+        <description>NIFTEX - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Thu, 18 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/niftex/" rel="self" type="application/rss+xml" /><item>
+    <title>NIFTEX</title>
+    <link>https://www.metabd.cc/nfts/niftex/</link>
+    <pubDate>Thu, 18 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>浮尘</name><uri>https://www.metabd.cc/authors/%E6%B5%AE%E5%B0%98</uri></author><guid>https://www.metabd.cc/nfts/niftex/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/niftex.png" referrerpolicy="no-referrer">
+            </div>NIFTEX 促进了不可替代代币 (NFT) 的部分所有权。NIFTEX 平台支持将 NFT 划分（“启动”）为符合 ERC20 标准的可替代部分。我们将这些可替代的部分称为“碎片”。碎]]></description>
+</item></channel>
+</rss>
