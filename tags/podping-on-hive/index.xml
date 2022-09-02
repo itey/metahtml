@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Podping on Hive - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/podping-on-hive/</link>
+        <description>Podping on Hive - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Mon, 22 Aug 2022 14:57:40 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/podping-on-hive/" rel="self" type="application/rss+xml" /><item>
+    <title>Podping on Hive</title>
+    <link>https://www.metabd.cc/nfts/podping-on-hive/</link>
+    <pubDate>Mon, 22 Aug 2022 14:57:40 &#43;0800</pubDate><author>
+                    <name>Simon</name><uri>https://www.metabd.cc/authors/simon</uri></author><guid>https://www.metabd.cc/nfts/podping-on-hive/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/podping-on-hive.png" referrerpolicy="no-referrer">
+            </div>Podping 是基于 RSS 的开放式播客生态系统的 WebSub 替代方案，允许快速、全球通知播客提要更新。使用 Hive 区块链，Podping 允许各种 Podcast 托管平台发送 Podcast 提要已更改的]]></description>
+</item></channel>
+</rss>

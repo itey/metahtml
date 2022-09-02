@@ -4,7 +4,15 @@
         <link>https://www.metabd.cc/tags/exchanges/</link>
         <description>Exchanges - 标签 - 斗极元宇宙导航</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
-            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Thu, 25 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/exchanges/" rel="self" type="application/rss+xml" /><item>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Mon, 29 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/exchanges/" rel="self" type="application/rss+xml" /><item>
+    <title>ProtoFi Protocol</title>
+    <link>https://www.metabd.cc/nfts/protofi-protocol/</link>
+    <pubDate>Mon, 29 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>june</name><uri>https://www.metabd.cc/authors/june</uri></author><guid>https://www.metabd.cc/nfts/protofi-protocol/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/protofi-protocol.png" referrerpolicy="no-referrer">
+            </div>什么是 ProtoFi Protocol？ 在当前的迭代中，ProtoFi 是一种创新的自动化做市商和收益农业协议，它允许投资者成为所有者并通过持有协议本身的一]]></description>
+</item><item>
     <title>Dark Knight</title>
     <link>https://www.metabd.cc/nfts/dark-knight/</link>
     <pubDate>Thu, 25 Aug 2022 00:00:00 &#43;0800</pubDate><author>
@@ -12,6 +20,22 @@
     <description><![CDATA[<div class="featured-image">
                 <img src="/dark-knight.png" referrerpolicy="no-referrer">
             </div>在 Dark Knight，我们开发了一个共生生态系统，通过旨在最大限度地提高上行潜力同时限制错误的工具来帮助投资者加速他们的财富创造。以 DeFi 最可持续的]]></description>
+</item><item>
+    <title>QuickSwap</title>
+    <link>https://www.metabd.cc/nfts/quickswap/</link>
+    <pubDate>Thu, 25 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>Cindy</name><uri>https://www.metabd.cc/authors/cindy</uri></author><guid>https://www.metabd.cc/nfts/quickswap/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/quickswap.png" referrerpolicy="no-referrer">
+            </div>QuickSwap 是基于以太坊的无许可去中心化交易所 (DEX)，由 Matic Network 的第 2 层可扩展性基础设施提供支持。通过利用第 2 层进行交易，QuickSwap 用户将能够]]></description>
+</item><item>
+    <title>QuipuSwap</title>
+    <link>https://www.metabd.cc/nfts/quipuswap/</link>
+    <pubDate>Thu, 25 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>Cindy</name><uri>https://www.metabd.cc/authors/cindy</uri></author><guid>https://www.metabd.cc/nfts/quipuswap/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/quipuswap.png" referrerpolicy="no-referrer">
+            </div>QuipuSwap 是一个开源协议，为基于 Tezos 的代币和 XTZ 的无缝去中心化交换提供接口。利用 Tezos 协议的优势，例如流动性 XTZ 委托，流动性提供者可以从交换费和面包师奖励中获]]></description>
 </item><item>
     <title>Pandaswap</title>
     <link>https://www.metabd.cc/nfts/pandaswap/</link>
@@ -21,68 +45,44 @@
                 <img src="/pandaswap.png" referrerpolicy="no-referrer">
             </div>熊猫是宝金融旗下多链帝国的首个特许经营权，涉足币安智能链（BSC）。 Pandaswap 目前由以下组件组成： DEX市场（AMM） 分发 PNDA 治理令牌的收益农业页面 为]]></description>
 </item><item>
-    <title>Opium Exchange</title>
-    <link>https://www.metabd.cc/nfts/opium-exchange/</link>
-    <pubDate>Mon, 22 Aug 2022 20:00:00 &#43;0800</pubDate><author>
-                    <name>Cindy</name><uri>https://www.metabd.cc/authors/cindy</uri></author><guid>https://www.metabd.cc/nfts/opium-exchange/</guid>
+    <title>PolyDEX</title>
+    <link>https://www.metabd.cc/nfts/polydex/</link>
+    <pubDate>Tue, 23 Aug 2022 14:57:40 &#43;0800</pubDate><author>
+                    <name>Simon</name><uri>https://www.metabd.cc/authors/simon</uri></author><guid>https://www.metabd.cc/nfts/polydex/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/opium-exchange.png" referrerpolicy="no-referrer">
-            </div>Opium Exchange 是一个开放的、非托管的去中心化衍生品交易平台。我们之前为 ETH 期货、天然气期权、即将推出的 DeFi 代币的合成预市场、信用违约掉期、利率掉期和二元期]]></description>
+                <img src="/polydex.png" referrerpolicy="no-referrer">
+            </div>PolyDEX 是 Polygon Network 上最新的 AMM。它旨在成为支持多链IDO和IFO的首选平台。在 PolyDEX 上启动的项目将受益于广泛的服务，包括 Staking Pools、Trading Ba]]></description>
 </item><item>
-    <title>token.store EOS</title>
-    <link>https://www.metabd.cc/nfts/token-store-eos/</link>
-    <pubDate>Mon, 22 Aug 2022 00:00:00 &#43;0800</pubDate><author>
-                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/token-store-eos/</guid>
+    <title>Polyient DEX</title>
+    <link>https://www.metabd.cc/nfts/polyient-dex/</link>
+    <pubDate>Tue, 23 Aug 2022 14:57:40 &#43;0800</pubDate><author>
+                    <name>Simon</name><uri>https://www.metabd.cc/authors/simon</uri></author><guid>https://www.metabd.cc/nfts/polyient-dex/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/token-store-eos.png" referrerpolicy="no-referrer">
-            </div>token.store EOS 是第一个完全无需信任的基于 EOS 代币的去中心化交易所。 token.store EOS 提供完全链上交易体验，所有交易都由经过审计的智能合约促进，从而消除了其他 EOS “DEX]]></description>
+                <img src="/polyient-dex.png" referrerpolicy="no-referrer">
+            </div>Polyient DEX (PG DEX) 是 Polyient Games 生态系统的官方去中心化交易所。 Polyient DEX 的 V1 是 Uniswap V2 的分叉，是最大的 Polyient Games Governance Token (PGT) 流动性池的所在地。PGT 持有者通过从领先的区块链游戏、N]]></description>
 </item><item>
-    <title>token.store ETH</title>
-    <link>https://www.metabd.cc/nfts/token-store-eth/</link>
-    <pubDate>Mon, 22 Aug 2022 00:00:00 &#43;0800</pubDate><author>
-                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/token-store-eth/</guid>
+    <title>PinkSwap</title>
+    <link>https://www.metabd.cc/nfts/pinkswap/</link>
+    <pubDate>Tue, 23 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>seven</name><uri>https://www.metabd.cc/authors/seven</uri></author><guid>https://www.metabd.cc/nfts/pinkswap/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/token-store-eth.png" referrerpolicy="no-referrer">
-            </div>什么是 token.store ETH？ token.store ETH 自 2017 年开始运营，是以太坊网络上最古老、完全无需信任的去中心化交易所之一。 所有资金都保存在一个开放的智能合约上（而不是由交]]></description>
+                <img src="/pinkswap.png" referrerpolicy="no-referrer">
+            </div>PinkSwap 是一个去中心化交易所，用于将 BEP-20 代币换成 PinkArmy。PinkSwap 使用自动做市商 (AMM) 模型。这意味着虽然你可以在平台上交易数字资产，但没]]></description>
 </item><item>
-    <title>TokenGoodies Exchange</title>
-    <link>https://www.metabd.cc/nfts/tokengoodies-exchange/</link>
-    <pubDate>Mon, 22 Aug 2022 00:00:00 &#43;0800</pubDate><author>
-                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/tokengoodies-exchange/</guid>
+    <title>Power Stake Community Platform</title>
+    <link>https://www.metabd.cc/nfts/power-stake-community-platform/</link>
+    <pubDate>Tue, 23 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>june</name><uri>https://www.metabd.cc/authors/june</uri></author><guid>https://www.metabd.cc/nfts/power-stake-community-platform/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/tokengoodies-exchange.png" referrerpolicy="no-referrer">
-            </div>什么是 TokenGoodies 交易所？ 推出首个此类交易所，用户可以在其中交易（购买/出售）能源。 买家将能够以低于销毁 TRX 的成本购买能源，卖家将收到 TRX 支付，以换取将其]]></description>
+                <img src="/power-stake-community-platform.png" referrerpolicy="no-referrer">
+            </div>什么是 Power Stake 社区平台？ Powerstake 社区平台是一个基于交易量的股息赚取交易所，通过买卖交易量向所有 POWER 代币持有者支付 20% 的股息。股息会立即在以太坊中支付，并且]]></description>
 </item><item>
-    <title>Tokenlon</title>
-    <link>https://www.metabd.cc/nfts/tokenlon/</link>
-    <pubDate>Mon, 22 Aug 2022 00:00:00 &#43;0800</pubDate><author>
-                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/tokenlon/</guid>
+    <title>RoboCoin Exchange</title>
+    <link>https://www.metabd.cc/nfts/robocoin-exchange/</link>
+    <pubDate>Tue, 23 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>浮尘</name><uri>https://www.metabd.cc/authors/%E6%B5%AE%E5%B0%98</uri></author><guid>https://www.metabd.cc/nfts/robocoin-exchange/</guid>
     <description><![CDATA[<div class="featured-image">
-                <img src="/tokenlon.png" referrerpolicy="no-referrer">
-            </div>打开 imToken 或 Tokenlon.im 并点击“市场”在 Tokenlon DEX 上交易。 Tokenlon 是一个去中心化的交易所，具有链下限价单和基于 0x 的链上结算以及来自 Uniswap 和 Curve 等其他 DEX 的聚合量。 其模块化设计]]></description>
-</item><item>
-    <title>TokenSwap</title>
-    <link>https://www.metabd.cc/nfts/tokenswap/</link>
-    <pubDate>Mon, 22 Aug 2022 00:00:00 &#43;0800</pubDate><author>
-                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/tokenswap/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/tokenswap.png" referrerpolicy="no-referrer">
-            </div>什么是代币交换？ TokenSwap 是一个去中心化的代币拍卖平台。 我们希望解决 Token 资产预售过程中的一系列问题，如拍卖不公开、手续费过高、中心化平台干扰、Toke]]></description>
-</item><item>
-    <title>Totle Swap</title>
-    <link>https://www.metabd.cc/nfts/totle-swap/</link>
-    <pubDate>Mon, 22 Aug 2022 00:00:00 &#43;0800</pubDate><author>
-                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/totle-swap/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/totle-swap.png" referrerpolicy="no-referrer">
-            </div>什么是Totle Swap？ Totle 聚合了以太坊上的所有去中心化交易场所和自动化做市商。 用户在使用 Totle 的智能订单路由技术交换代币时会自动获得最优惠的价]]></description>
-</item><item>
-    <title>Transit Swap</title>
-    <link>https://www.metabd.cc/nfts/transit-swap/</link>
-    <pubDate>Mon, 22 Aug 2022 00:00:00 &#43;0800</pubDate><author>
-                    <name>boogArno</name><uri>https://www.metabd.cc/authors/boogarno</uri></author><guid>https://www.metabd.cc/nfts/transit-swap/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/transit-swap.png" referrerpolicy="no-referrer">
-            </div>Transit Swap集成了绝大多数公链受用户喜爱的DEX，我们选取了他们的优势并智能地结合在一起，为您的交易提供更好的深度，返回更多的目标token。]]></description>
+                <img src="/robocoin-exchange.png" referrerpolicy="no-referrer">
+            </div>分步指南 RoboCoinEX将向1,000 名 幸运参与者赠送总计 10,000,000 美元RCX 代币（约 100,000 美元） 。注册赠品并完成简单的任务以获得参赛作品。 1-通过]]></description>
 </item></channel>
 </rss>

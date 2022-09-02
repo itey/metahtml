@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>PolyToken - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/polytoken/</link>
+        <description>PolyToken - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Mon, 22 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/polytoken/" rel="self" type="application/rss+xml" /><item>
+    <title>PolyToken</title>
+    <link>https://www.metabd.cc/nfts/polytoken/</link>
+    <pubDate>Mon, 22 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>june</name><uri>https://www.metabd.cc/authors/june</uri></author><guid>https://www.metabd.cc/nfts/polytoken/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/polytoken.png" referrerpolicy="no-referrer">
+            </div>Polytoken 是一种实用程序，用于处理一个或多个任意数据维度的哈希处理，以便在数据库索引和查询中使用。 Polytoken 被设计为一个地理哈希库，可扩展到多个任意维度。当]]></description>
+</item></channel>
+</rss>

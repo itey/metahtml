@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>PolyWall - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/polywall/</link>
+        <description>PolyWall - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Mon, 22 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/polywall/" rel="self" type="application/rss+xml" /><item>
+    <title>PolyWall</title>
+    <link>https://www.metabd.cc/nfts/polywall/</link>
+    <pubDate>Mon, 22 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>june</name><uri>https://www.metabd.cc/authors/june</uri></author><guid>https://www.metabd.cc/nfts/polywall/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/polywall.png" referrerpolicy="no-referrer">
+            </div>什么是 PolyWall ？ 这是什么？它是免费的吗？有什么规则吗？ PolyWall 是存储在 Polygon 区块链上的纯文本文件。这面墙上有 2^256-1 行。每行长度为 100 个字符。 新线路的创建是免费的。]]></description>
+</item></channel>
+</rss>

@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Quick Audits - 标签 - 斗极元宇宙导航</title>
+        <link>https://www.metabd.cc/tags/quick-audits/</link>
+        <description>Quick Audits - 标签 - 斗极元宇宙导航</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
+            <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Thu, 25 Aug 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/tags/quick-audits/" rel="self" type="application/rss+xml" /><item>
+    <title>Quick Audits</title>
+    <link>https://www.metabd.cc/nfts/quick-audits/</link>
+    <pubDate>Thu, 25 Aug 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>Cindy</name><uri>https://www.metabd.cc/authors/cindy</uri></author><guid>https://www.metabd.cc/nfts/quick-audits/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/quick-audits.png" referrerpolicy="no-referrer">
+            </div>我们已经在区块链上编译了一个包含已知地毯、蜜罐、诈骗和其他恶意合约的数据库。我们分析这些已知问题的合约，然后检查它们的恶意程度。Quick Audit]]></description>
+</item></channel>
+</rss>
