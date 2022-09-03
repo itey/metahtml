@@ -1,23 +1,18 @@
 # GalacticApes
 
-什么是银河猿？
-准备好你的船员，组装你的船只，为猿猴的荣耀夺回宇宙。只有最有价值和最伟大的猿类才能从饱受战争蹂躏的星球上拯救他们的盟友，殖民新世界并从太空最深处的丰富矿藏中掠夺宝藏。
+▶ 什么是银河猿？
+GalacticApes 是一个 NFT（不可替代代币）集合。存储在区块链上的数字艺术品集合。
+▶ 有多少 GalacticApes 代币？
+总共有 9,998 个 GalacticApes NFT。目前，3,480 位车主的钱包中至少有一个 GalacticApes NTF。
+▶ 最昂贵的 GalacticApes 销售是什么？
+最昂贵的 GalacticApes NFT 是 GalacticApe #2160。它于 2022-08-24（9 天前）以 659.8 美元的价格售出。
+▶ 最近卖出了多少银河猿？
+过去 30 天内售出了 150 个 GalacticApes NFT。
+▶ GalacticApes 的价格是多少？
+在过去 30 天里，最便宜的 GalacticApes NFT 销售额低于 23 美元，最高销售额超过 44 美元。在过去 30 天内，GalacticApes NFT 的中位价格为 32 美元。
+▶ 什么是流行的 GalacticApes 替代品？
+许多拥有 GalacticApes NFT 的用户还拥有 GalacticMonkes、 考拉情报局、 Winter Bears和 Ready Player Cat NFT。
 
-它们的成本是多少，总供应量是多少？
-猿的总供应量为 9,999，每只猿的造币成本为 0.08Ξ。
+![nft](01.png)
 
-什么是任务？
-任务是银河猿宇宙的游戏化机制。与您的工作人员一起，您将能够完成铸造/领取其他 GalacticApes NFT 和收藏品的任务。
-
-我需要不止一只猿来执行任务吗？
-是的！对于任务，您将需要一个工作人员，但您也可以有多个工作人员同时执行不同的任务。根据您的船员组合，将比其他船员具有显着优势。
-
-最好的船员组合是什么？
-从最有利到最不利的三种船员类型将是：
-
-总共 3 只银河猿，每个属 1 只
-总共 3 只银河猿，任意组合
-2 银河猿共任意组合
-
-![galacticapes-dapp-collectibles-ethereum-image2_f2711061edf09c2966ad96c174fd27fc](galacticapes-dapp-collectibles-ethereum-image2_f2711061edf09c2966ad96c174fd27fc.png)
 

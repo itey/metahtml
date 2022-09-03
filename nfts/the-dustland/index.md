@@ -1,8 +1,10 @@
 # The Dustland
 
-Dustland 是 OliveX 健身虚拟世界中的最新游戏，奖励现实生活中跑步和骑自行车的玩家。该生态系统从头开始设计为使用 DOSE 实用代币进行跨链兼容。此系列中的 NFT 为所有类型的 Dustland 跑步者、骑手和健身爱好者提供了进入 Dustland 世界、收藏品和游戏体验的途径。强大的太阳耀斑烧焦了地球并摧毁了周围的城市，使地球成为废墟和四散的幸存者。
-尘土飞扬的是剩下的——一个摇摇欲坠的海盗集合，鬼城和七个定居点。
+Dustland 的第一个 NFT Kettlemine 是您开始在 Dustland 的移动赚钱模式中赚取 DOSE 的关键。 此 NFT 还允许您利用未来的游戏内实用程序。 所有 NFT 都将为所有类型、年龄和能力的跑步者、骑手和健身爱好者提供进入 Dustland 世界、收藏品和游戏体验的途径。 Dustland Runner 是 OliveX 健身虚拟世界中最新的音频冒险游戏，奖励跑步的玩家。 在战略合作伙伴 Animoca Brands 的支持下，Dustland 从头开始设计为使用 DOSE 实用代币的跨链兼容生态系统的核心组件。 在 Play Store 和 App Store 下载 Dustland Runner
 
-在后世界末日的未来生存和发展——资源稀缺，但机遇在召唤。寻找资源，寻找其他幸存者并发现尘土的秘密。你的任务是飞越尘土并拯救未来。
+现在是2272年。一场强大的太阳耀斑灼伤了地球，摧毁了周围的城市，使地球成为废墟和分散的幸存者。
+尘土飞扬的土地只剩下了——一个由海盗、鬼城和七个定居点组成的摇摇欲坠的集合。
 
-![thedustland-dapp-collectibles-matic-image1_be1807a42a0cebf2825ef5359fe491af](thedustland-dapp-collectibles-matic-image1_be1807a42a0cebf2825ef5359fe491af.png)
+在后世界末日的未来生存和发展——资源稀缺，但机会召唤。奔跑寻找资源，找到其他幸存者，发现尘埃之地的秘密。你的任务是在尘埃之地上奔跑，拯救未来。
+
+![nft](微信截图_20220831102237.png)

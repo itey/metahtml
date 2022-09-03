@@ -1,19 +1,15 @@
 # Australopithecus NFT
 
-<p>多边形网络上的 ERC-721 收藏艺术品。 它们是 2,000 件具有收藏价值的独特艺术品，从 &nbsp;手绘 &nbsp;插图转换为数字。</p>
+不可替代的南方古猿。它们是从手绘插图转换为数字插图的 2,000 件具有收藏价值的独特艺术品。
 
-![下载](下载.png)
+Lucy Holders 可以收到即将到来的 Skeleton Lucy 和 Homo NFT
 
+南方古猿 NFT NFT - 常见问题 (FAQ)
+▶ 什么是南方古猿 NFT？
+Australopithecus NFT 是一个 NFT（Non-fungible token）集合。存储在区块链上的数字艺术品集合。
+▶ 存在多少南方古猿 NFT 代币？
+总共有 1,956 个南方古猿 NFT NFT。目前，116 位所有者的钱包中至少有一个南方古猿 NFT NTF。
+▶ 最近卖出了多少南方古猿 NFT？
+过去 30 天内售出 0 个南方古猿 NFT NFT。
 
-
-## 这些是什么
-
-- 它们是称为 ERC721 令牌的收藏品，其中包含随机生成的图像。
-- 艺术品从手绘插图转换为数字插图。
-- 所有图像都存储在分布式文件系统（IPFS）上。
-
-## 如何购买或出售
-
-- 所有关于南方古猿 NFT 的交易都可以在[OpenSea](https://opensea.io/collection/australopithecus-nft)上进行。
-
-  ![og_image](og_image.png)
+![nft](unnamed.png)
