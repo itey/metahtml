@@ -1,4 +1,4 @@
-# Flower Friends Genesis
+# Flower Friends
 
 Flower Friends 正在发布一组 5555 个 NFT 作为收藏品存在于区块链上。每个花友都有十几个独特的计算机生成属性，根据其特征组合，每一个都是独一无二的
 
@@ -18,4 +18,4 @@ Flower Friends 正在发布一组 5555 个 NFT 作为收藏品存在于区块链
 
 我们认为这是对 Flowerverse 的激动人心的介绍。随着 Flower Friends 社区的发展，社区将在帮助团队决定项目的发展方向方面发挥重要作用。
 
-![nft](01.jpg)
+![nft](03.jpg)

@@ -1,9 +1,10 @@
 # Galaxy Fight Club
 
-Galaxy Fight Club 是一款跨 IP、跨平台（PC + 移动）的 PvP 格斗游戏，不同 NFT 收藏的持有者可以通过我们的“玩来赚钱”机制相互对战，以赢得和获得奖励。自 2021 年 8 月开始建设以来，我们已经与多个项目合作，玩家可以使用我们官方合作伙伴的角色，包括 CyberKongz、Illuvium、BYOPills（+ 更多）以及具有 CC0 权利的项目，例如 Cryptoadz。
+Galaxy Fight Club (GFC) 不仅仅是一个头像项目，它还是一款实时 PvP 游戏，将所有其他不同的头像集合汇集到一个平台上。
+当你想到 Super Smash Bros 时，它之所以如此有趣，是因为你有来自不同 IP 的角色聚集在一起，就像皮卡丘和马里奥战斗一样。 Galaxy Fight Club 也在做同样的事情，你会看到 Bulls on the Block 的公牛与 BAYC 的 Ape 战斗，或者酷猫与 Cryptopunk 战斗。
+您不仅可以与其他头像集合战斗，以赢得武器掉落和 eth。我们还将举办定期锦标赛，任何拥有 Galaxy Fighter 的人都可以参加，有机会获得每周最高 2 奖的奖金。
+设定在未来的 2049 年（Ready Player One 之后的 4 年），来自全银河系的 9,994 名来自 12 个不同种族、拥有 200 多种特征的最佳战士将在位于外太空的竞技场中相互较量，以赢得他们的自由.
+战斗系统已经完成了一个即玩游戏，额外的图形、动画和 UI 系统将在未来几个月内添加到完整的游戏中，为 2021 年 11 月的完整发布做准备。
 
-在我们自己的收藏中，每台创世纪银河战士每天都会产生 5-15 个我们的游戏内货币 $GCOIN，创世纪银河战士的总供应量为 10,129。
-
-![nft](01.png)
-
+![galaxyfightclub-dapp-collectibles-ethereum-image2_53de14a77649e1b4ea55c0bef91052bf](galaxyfightclub-dapp-collectibles-ethereum-image2_53de14a77649e1b4ea55c0bef91052bf.png)
 
