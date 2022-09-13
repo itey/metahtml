@@ -17,3 +17,4 @@ B)APETAVERSE 是 BAPEFAM 聚集在一起的虚拟世界，将收藏品的目的�
 许多拥有 (B)APETAVERSE NFT 的用户还拥有 ZombieClub 代币、 Karafuru x HYPEBEAST x atmos、 MekaVerse和 Edgar Plans 的 Lil' Heroes。
 
 ![nft](unnamed.png)
+pV.jpg)
