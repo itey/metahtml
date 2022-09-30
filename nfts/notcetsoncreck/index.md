@@ -1,7 +1,5 @@
 # NOTCetsOnCreck
 
-过去 7 天内没有售出 NOTCetsOnCreck。
-
 6,969 Not Cets 在以太坊区块链上。
 
 前 1000 个免费铸造，其余 0.0069 Eth。
@@ -14,8 +12,6 @@ NFT 是不可替代的。
 
 为了文化，为了WEB3！
 
-不隶属于@CetsOnCeck。
-
 NOTCetsOnCeck NFT - 常见问题（FAQ）
 ▶ 什么是 NOTCetsOnCreck？
 NOTCetsOnCreck 是一个 NFT（非同质代币）集合。存储在区块链上的数字艺术品集合。
@@ -24,4 +20,4 @@ NOTCetsOnCreck 是一个 NFT（非同质代币）集合。存储在区块链上�
 ▶ 最近卖出了多少个 NOTCetsOnCreck？
 过去 30 天内售出 0 个 NOTCetsOnCreck NFT。
 
-![unnamed](unnamed.jpg)
+![nft](微信截图_20220902212208.png)
