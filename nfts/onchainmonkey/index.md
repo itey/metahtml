@@ -1,16 +1,7 @@
 # OnChainMonkey
 
+OnChainMonkey 是 Danny Yang、Amanda Terry、Bill Tai 和 Metagood 的创新 NFT 项目。NFT 是在单个交易中创建的第一个链上 pfp 集合，并提供 OnChainMonkey 社区的成员资格。我们被授予 Fast Company 的 20 个影响力投资改变世界的最佳创意，并且是 Coindesk x Extreme Tech Challenge Web3 竞赛的 8 名决赛选手之一。认识我们的一些社区
 
-**什么是 OnChainMonkey ？**
+新的 NFT 集合提供 Monkeyverse 的成员资格、在 DAO 中投票资助 web3 和社区项目，以及访问任务和香蕉经济。Karma 艺术由我们获得奥斯卡奖提名的团队以及加密和技术资深人士共同创作。
 
-完全在具有所有这些属性的链 10k 集合上：
-
-所有元数据都在链上，所有图像都在链上（svg 格式）全部在一个 txn 中创建；
-
-所有 10,000 只 OnChain 猴子都是独一无二的，有 7 个特征，有 171 个值；
-
-特征基于BAYC并上链具有分布和稀有性，这些可以在未来用于其他应用程序和集合，OnChain Monkeys 的个人特征受到 BAYC 的启发。
-
-例如，8 种背景颜色与 BAYC 猿人一样是 8 种。19 款双色调毛皮颜色取自 19 款 BAYC 猿类毛皮，并具有直接 1-1 映射。6 种耳环类型与 BAYC 猿类相似。
-
-![元数据](14.png)
+![nft](微信截图_20220903174014.png)

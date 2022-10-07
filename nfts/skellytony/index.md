@@ -1,17 +1,21 @@
 # SkellyTony
 
-SkellyTony NFT - 常见问题（FAQ）
-▶ 什么是 SkellyTony？
-SkellyTony 是一个 NFT（不可替代令牌）集合。存储在区块链上的数字艺术品集合。
-▶ 存在多少 SkellyTony 代币？
-总共有 4,265 个 SkellyTony NFT。目前，1,295 位车主的钱包中至少有一个 SkellyTony NTF。
-▶ 最昂贵的 SkellyTony 销售是什么？
-出售的最昂贵的 SkellyTony NFT 是 Skelly Tony #461。它于 2022-06-07（3 个月前）以 163.2 美元的价格售出。
-▶ 最近卖出了多少 SkellyTony？
-过去 30 天内售出了 533 个 SkellyTony NFT。
-▶ SkellyTony 的价格是多少？
-在过去 30 天里，SkellyTony NFT 最便宜的销售额低于 7 美元，最高销售额超过 18 美元。在过去 30 天内，SkellyTony NFT 的中位价格为 9 美元。
-▶ 什么是流行的 SkellyTony 替代品？
-许多拥有 SkellyTony NFT 的用户还拥有 NomNomSharks、 iDreamer (Impermanent Digital)、 My Little Pug和 Wabi Sabi Collective Genesis。
+4444 Skelly Tonys在区块链上过着最好的生活。免费薄荷。没有不和谐。没有地图。只是托尼。
+
+免费薄荷。只是气体。每个钱包3个。
+选择下面连接和薄荷！
+
+什么是骷髅头？
+SkellyTony是一个NFT（不可替代令牌）集合。存储在区块链上的数字艺术品的集合。
+▶ 有多少个SkellyTony代币存在？
+总共有4，265个SkellyTony NFT.目前有1，295个所有者在他们的钱包中至少有一个SkellyTony NTF。
+▶ SkellyTony最昂贵的销售是什么？
+出售的最昂贵的SkellyTony NFT是Skelly Tony #461。它在2022-06-07（3个月前）以$ 163.2的价格出售。
+▶ 最近卖了多少SkellyTony？
+在过去的30天内，有533个SkellyTony NFT售出。
+▶ 一个骷髅头多少钱？
+在过去的30天里，最便宜的SkellyTony NFT销售额低于7美元，最高销售额超过18美元。SkellyTony NFT的中位价格是过去30天的9美元。
+▶ 什么是流行的SkellyTony替代品？
+许多拥有SkellyTony NFT的用户还拥有NomNomSharks，iDreamer（Impermanent Digital），My Little Pug和Wabi Sabi Collective Genesis。
 
 ![nft](unnamed.png)

@@ -1,5 +1,9 @@
 # Sidus NFT Heroes
 
-SIDUS：NFT Heroes 是由 NFT STARS 和国际现代艺术家集体 NFT256 创建的 6,000 个生成角色的集合。该系列包含 4,000 名原创 NFT 英雄、1,000 名稀有英雄、500 名传奇英雄和 500 名合作 NFT 英雄。只有最初的 4,000 个可供购买，其余的都是使用升级卡和 Galaxy Modificator 创建的。根据传说，每个英雄都是从 12 个区块链行星之一（Bitcoione、Avalanya、Polygopus、Tronguan 等）来到独立城市 SIDUS。每个英雄的家乡星球都在他们的外表、性格和盔甲上留下了印记。未来，SIDUS 系列将转变为一个游戏虚拟世界，其中每个 sidus 英雄都可以访问游戏。 Sidus 不仅仅是一个游戏，而是一个充满无限机会的奇妙旅程！
+**Sidus NFT 英雄**
 
-![sidusnftheroes-dapp-games-ethereum-image1-500x315_7432cb5d89c2cefa38a1b0bfbe9c7688](sidusnftheroes-dapp-games-ethereum-image1-500x315_7432cb5d89c2cefa38a1b0bfbe9c7688.png)
+SIDUS NFT Heroes 是 SIDUS HEROES 元节中的原始 NFT 集合。该系列包括由 NFT STARS 和国际现代艺术家集体 NFT256 创建的 6,000 个生成角色。
+
+SIDUS NFT Heroes 系列可作为 SIDUS HEROES 元节的入场券。您可以在 SIDUS HEROES 网站上锁定您的卡，并立即获得一个英雄，该英雄将在游戏内发布。根据原始 NFT 英雄的稀有度，您将在游戏中获得普通、史诗或传奇英雄。锁定期结束后，您将取回您的卡，如果您愿意，您可以再次将其锁定一段时间，并在游戏中获得一个新英雄。
+
+![nft](WX20220903-230151@2x.png)

@@ -1,16 +1,15 @@
 # OctoHedz Reloaded
 
+OctoHedz 入侵地球，而每个人都忙着“登月”，派 888 个创世纪 Octos 渗透，传播 $INKz 并收集情报以进行全面入侵。
 
 
-
-我们是OctoHedz。这只是入侵的第1阶段，其中888 Octos到达地球半球并进入区块链。每个OctoHedz NFT都是一个独特的ERC721令牌，代表入侵的未来。第二阶段于10月推出：8000。
-
-OctoHedz入侵地球时，每个人都忙于“登月”，派出888 Genesis Octos渗透，传播$INKz并收集情报以进行全面入侵。
-
-$INKz是由Genesis集合和进化的来源被动产生的，以到达元界。将他们的像素形式转换为3D体素，以入侵沙盒和其他元宇宙。
-
-请留意我们即将推出的关于PH中沙盒和IRL充气岛的演示。
-
-![img](24.png)
+$INKz 是由Genesis 集合和进化源被动生成的，以到达元界。将它们的像素形式转换为 3D 体素，以入侵沙盒和其他元宇宙。
 
 
+请留意我们即将在 PH 中的沙盒和 IRL 充气岛演示。
+
+OctoHedz 正在连接游戏化、教育和 IRL。通过专注于 Metaverse，在 Sandbox（Alpha 4 上的演示）和 NFT Worlds 上创造游戏体验。
+
+我们正在摆脱传统的束缚，将 VX 带入 Metaverse 之外的许多途径，例如 AR 等等。
+
+![nft](微信截图_20220903131516.png)
