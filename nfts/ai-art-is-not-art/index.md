@@ -1,9 +1,23 @@
 # AI art is not art
 
-人工智能机器艺术。它是什么？购买它并找出答案。图像是根据简短的文本描述创建的，神经网络会生成各种各样的明亮多彩的图像。该模型理解大量概念，并生成现实世界中不存在的全新图像和对象。
+什么是三聚氰胺？
 
-NFT 令牌的所有图像都是使用 DALL-E 神经网络构建的。我们的目标是创建一个“多模式”神经网络，以多种模式（主要是文本和视觉）学习概念，以更好地理解世界。Transformer 被教导将文本和图像标记自回归建模为单个数据流。为了学习如何渲染图像，该模型在 Christofari 集群上在 512 个 TESLA V100 GPU 上训练了 37 天，然后在 128 个 GPU 上又训练了 11 天——总共 20352 个 GPU 天。
+AI art is not art 是一个 NFT（不可替代代币）集合。存储在区块链上的数字艺术品集合。
 
-出售 NFT 代币的所有收益将用于开发用于各种应用的神经网络和人工智能。
+AI art is not art 代币有多少？
 
-![bafybeigpnoz4va46owarhd72owfd3hegjsg4na75ilihhrvaurnr6bxhoq](bafybeigpnoz4va46owarhd72owfd3hegjsg4na75ilihhrvaurnr6bxhoq.png)
+总共有 1 个 AI art is not art NFT。目前 10 位业主的钱包中至少有一个 Loy City NTF。
+
+AI art is not art 最昂贵的交易是什么？
+
+AI art is not art 卖的最贵的是 元阳票]。它于 2022-06-18（3 个月前）以 2740 万美元的价格售出。
+
+最近卖出了多少 AI art is not art？
+
+过去 30 天内售出了 95 个 LAI art is not art NFT。
+
+AI art is not art 的费用是多少？
+
+在过去 30 天里，AI art is not art NFT 最便宜的销售额低于 7000 美元，最高销售额超过 1137 万美元。过去 30 天 Loy City NFT 的中位数价格为 988,000 美元。
+
+![nft](4e441bc4-e503-4ba7-935a-7f91573c2fba.png)
