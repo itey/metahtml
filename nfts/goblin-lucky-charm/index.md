@@ -1,5 +1,12 @@
 # Goblin Lucky Charm
 
-![nft](20220831170008.jpg)
+ 什么是地精幸运符？
+Goblin Lucky Charm 是一个 NFT（Non-fungible token）集合。存储在区块链上的数字艺术品集合。
 
-Goblin Lucky Charm NFT 在过去 7 天内售出 284 次。地精幸运符的总销售额为 1.48 万美元。一个地精幸运符 NFT 的平均价格为 5.2 美元。共有 1,684 名地精幸运符拥有者，拥有总供应量 5,825 个代币。地精幸运符于 2022 年 6 月 22 日首次铸造。我们目前正在追踪流通中的 5,821 个没有被烧毁或质押的 Goblin Lucky Charm 代币。我们为地精幸运符索引了 75 个独特的特征对。购买地精幸运符最常见的地方包括 OpenSea 和 LooksRare 等市场或 Gem.xyz 和 Genie.xyz 等聚合器。链接可以在上面找到！
+ 有多少个地精幸运符令牌？
+总共有 5,825 个 Goblin Lucky Charm NFT。目前，1,684 位拥有者的钱包中至少有一个 Goblin Lucky Charm NTF。
+
+最近卖出了多少个地精幸运符？
+过去 30 天内售出了 1,703 个 Goblin Lucky Charm NFT。
+
+![nft](15666_new.png)
