@@ -1,7 +1,5 @@
 # In ETH We Trust!
 
-4.878 ETH 捍卫者 NFT。 CC0 关闭 #FreeMint 旨在捍卫心爱的 eth。
-
 Eth 延迟到达 b4，eth 合并以支持我们心爱的 Eth。
 
 不要指望我会做出真正的举动，在发布会上发现我的开发人员在酒吧 b4 喝醉了。
@@ -18,6 +16,6 @@ Gmi wagmi ngmi 已经厌倦了这个 tbh。唯一的 gmi 是 eth，这就是我�
 
 350 美元的 Fiver 艺术家的努力和质量
 
-![NFT ](微信截图_20220828134431.png)
+![nft](01.png)
 
 

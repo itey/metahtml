@@ -1,6 +1,16 @@
 # Impermanent Digital
 
-头像应该是自我的反映。我们是不断变化的生物——我们进化、衰败和死亡。为什么我们期望我们的化身长生不老？ ︎4444 版本 - 视觉上令人惊叹的生与死艺术作品，主题为生、死以及介于两者之间的一切。第一个系列重新想象 CryptoPunks，使用最先进的神经网络将原件老化+变形为超凡脱俗的艺术品。 ︎ 稀有特性 - 每个都有一个生命周期特性（1、2 或 3），这决定了化身可以达到多少次迭代。如果持有者选择销毁他们的最后一次迭代，他们将收到一个 AfterLife 代币，用于解锁空投和更多生命。
+作为一个以艺术为先的社区，Impermanent Digital 将始终支持艺术家的 NFT 之旅
 
-![impermanentdigital-dapp-collectibles-ethereum-image1_7ecb86c7cf8199cc7b0e9f7bf82e73d6](impermanentdigital-dapp-collectibles-ethereum-image1_7ecb86c7cf8199cc7b0e9f7bf82e73d6.png)
+通过 ID 艺术计划，选定的艺术家将在 Foundation 上支付他们的造币厂/上市费用。 
+
+许多人说他们想支持崭露头角的艺术家。我们是关于行动的。  
+
+
+以下面的表格提交您的作品以及您的艺术和 NFT 之旅的故事
+
+除了我们的艺术计划，我们还为选择加入的 ID 成员初始化了一个分段艺术库。这些成员将收到代表未来投票权以及分段艺术价值的代币。销售收入将相应地细分。
+
+![nft](01.png)
+
 

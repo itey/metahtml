@@ -1,7 +1,14 @@
 # Impact Theory Founder's Key
 
-我们的使命是通过故事向人们介绍大规模的想法。除了 Project Kyzen 和 Merry Modz，我们目前还有一整套故事正在开发中。我们的项目有几种不同的方式来实现，但最常见的方式是从漫画书开始。
-这将使我们能够在建立观众群时探索世界和故事。我们的两个项目已经以这种方式取得了成功（Neon Future 和 Hexagon）。这两个项目都在 Webtoon 上各自类别的前 10 名中度过了整个过程——总共获得了超过一百万的浏览量。
+改善某人生活的最好方法是向他们介绍有用的想法。介绍有用想法的最佳方式是讲故事。
 
-![impacttheoryfounderskey-dapp-collectibles-ethereum-image1_39893aff36bb099c80ae53b0282ac18e](impacttheoryfounderskey-dapp-collectibles-ethereum-image1_39893aff36bb099c80ae53b0282ac18e.png)
+抓住一把钥匙，开启讲故事的未来。
+
+Founders Keys 分为三个不同的等级：无情、英雄和传奇。每个都提供不同级别的访问权限。查看他们的实用地图并选择适合您的地图。
+
+
+我们是新的创意之家，Founders Keys 加深了您与我们所有举措的关系。获得对我们的视频内容、我们的大学、我们的叙事内容、我们在 Web3 中所做的一切以及即将推出的游戏世界 Project Kyzen 的特殊访问权限，该项目将我们的整个创意世界连接在一个授权的地方、
+
+![nft](01.png)
+
 
