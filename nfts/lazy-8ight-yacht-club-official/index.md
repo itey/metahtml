@@ -1,7 +1,5 @@
 # Lazy 8ight Yacht Club Official
 
-Lazy 8ight Yacht Club 包含 8,888 艘独特的、完全可穿越的 90 米游艇，您可以在元宇宙中探索和担任船长。Lazy 8ight 旨在弥合游艇世界、豪华酒店和 web3 技术之间的差距。
+世界上第一家 Web3 游艇租赁和豪华活动策划公司DM 我们预订您的项目的下一个活动。Lazy 8ight Yacht Club Official是一个 NFT（不可替代代币）集合。存储在区块链上的数字艺术品集合。总共有 1 个 Lazy 8ight Yacht Club OfficialNFT。目前，612 位所有者的钱包中至少有一个 Lazy 8ight Yacht Club OfficialNTF。
 
-Lazy 8ight 拥有 500 多艘现实世界的游艇，可用于包租、乘坐直升机和活动服务，为我们的会员提供福利，Lazy 8ight 正在成为 web3 豪华服务的领导者。通过现实世界的豪华服务、社交活动、独家庆祝活动和以水上为主题的虚拟世界的折扣，我们的目标是让我们的每一位船员在进入虚拟世界时都感到受到欢迎、有勇气和兴奋地加入我们。我们很荣幸有您与我们一起探索数字海洋探索的新前沿。
-
-![nft](unnamed.jpg)
+![nft](01.png)

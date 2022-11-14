@@ -1,5 +1,14 @@
 # JPEG Cards
 
-JPEG 是一种无价值的治理代币，没有经济价值。它的唯一目的是管理协议的实用代币。作为交换代币到 DAO 的交换，你将收到一个零利润预期的无价值治理代币。 JPEG 的持有者可以创建或投票决定塑造和监督协议的治理提案。此类提议可能包括但不限于更改保险库的债务限额、更改存款、利息、保险或任何其他类型的费用，批准增加某些 NFT 的信用额度等。
+▶ 什么是 JPEG 卡？
+JPEG Cards 是一个 NFT（不可替代令牌）集合。存储在区块链上的数字艺术品集合。
+▶ JPEG Cards 代币有多少？
+总共有 1,018 个 JPEG Cards NFT。目前，426 位所有者的钱包中至少有一张 JPEG Cards NTF。
+▶ 什么是最昂贵的 JPEG Cards 销售？
+出售的最昂贵的 JPEG Cards NFT 是 JPEG Card 769。它于 2022 年 7 月 2 日（2 个月前）以 1.21 万美元的价格售出。
+▶ 最近卖出了多少张 JPEG 卡？
+过去 30 天内售出了 44 张 JPEG Cards NFT。
+▶ 一张 JPEG 卡的价格是多少？
+在过去 30 天内，最便宜的 JPEG Cards NFT 销售额低于 236 美元，最高销售额超过 10.9 万美元。过去 30 天 JPEG Cards NFT 的中位价格为 678 美元。
 
-![jpegcards-dapp-collectibles-ethereum-image1_dcc444db55dfa5ce7c2af5a07530bb1a](jpegcards-dapp-collectibles-ethereum-image1_dcc444db55dfa5ce7c2af5a07530bb1a.png)
+![nft](01.png)

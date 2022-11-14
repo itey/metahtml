@@ -1,7 +1,10 @@
 # KCG
 
-KCG 是生活在 Metaverse 中的 3D 小猫，由才华横溢的 Nicolas Morel 和 Amandine Comes 制作。这两位法国国民曾为 Marvel、迪士尼、Neftflix、华纳兄弟等公司工作。
-该系列有 300 多个特征。它是市场上变化最大的 3D NFT 系列之一。
-KCG 社区将拥有对其网络和移动应用程序、即将推出的系列、KittyBox 赠品和 Metaverse 项目合作的独家访问权。
+目前，超过 60% 的 Kitty 供应已被质押在我们的 KCG Vault 中。更多信息可在我们的不和谐中找到。Kitty Crypto Gang 是一个由 7997 名坏男孩组成的团队，他们生活在由猫父执导的 Metaverse 中。他拥有 Metaverse 中最好的夜总会之一，只有该团伙的成员才能访问该空间的所有活动和优势。
 
-![kcg-dapp-collectibles-ethereum-image1_972e8e38602ffa50b3efe3b027e667bf](kcg-dapp-collectibles-ethereum-image1_972e8e38602ffa50b3efe3b027e667bf.png)
+7997 Badass Kitties NFT 的集合由Nicolas Morel和 阿曼丁来了。两位居住在澳大利亚并为漫威、Netflix、迪士尼、华纳、DC 宇宙等公司工作的法国艺术家。
+
+每个 NFT 都是独一无二的，并以 3D 艺术作品呈现，包含200 多个特征。
+它是市场上变化最多的 3D NFT 系列之一。
+
+![nft](01.png)
