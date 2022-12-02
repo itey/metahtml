@@ -5,6 +5,14 @@
         <description>guiruwen - 作者 - 斗极元宇宙导航</description>
         <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>support@metabd.cc (斗极元宇宙)</managingEditor>
             <webMaster>support@metabd.cc (斗极元宇宙)</webMaster><lastBuildDate>Mon, 05 Sep 2022 00:00:00 &#43;0800</lastBuildDate><atom:link href="https://www.metabd.cc/authors/guiruwen/" rel="self" type="application/rss+xml" /><item>
+    <title>Genesis.sol - [sol]Seedlings (migrated)</title>
+    <link>https://www.metabd.cc/nfts/migrated-genesis-sol-solseedlings/</link>
+    <pubDate>Mon, 05 Sep 2022 00:00:00 &#43;0800</pubDate><author>
+                    <name>guiruwen</name><uri>https://www.metabd.cc/authors/guiruwen</uri></author><guid>https://www.metabd.cc/nfts/migrated-genesis-sol-solseedlings/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/migrated-genesis-sol-solseedlings.png" referrerpolicy="no-referrer">
+            </div>Seedlings 是 SVG 的确定性艺术系列。 Superglyphs.sol，第三个 [sol] Seedlings 集合现在可以在主网上申领。完成 512Print.sol 和 Genesis.sol 迁移过程的收藏家现在可以在我们的网站上]]></description>
+</item><item>
     <title>L.E.V.O</title>
     <link>https://www.metabd.cc/nfts/l-e-v-o-1/</link>
     <pubDate>Mon, 05 Sep 2022 00:00:00 &#43;0800</pubDate><author>
@@ -76,13 +84,5 @@
     <description><![CDATA[<div class="featured-image">
                 <img src="/lenia-nft.png" referrerpolicy="no-referrer">
             </div>Lenia 是通过 AI 研究发现的独特生命形式。 我们希望提供一种新的经济可行的开放研究方式。为此，我们正在建立一个去中心化和透明的研究实验室。不仅仅是一个]]></description>
-</item><item>
-    <title>LeprechaunTown_WTF</title>
-    <link>https://www.metabd.cc/nfts/leprechauntown-wtf-v2-1/</link>
-    <pubDate>Mon, 05 Sep 2022 00:00:00 &#43;0800</pubDate><author>
-                    <name>guiruwen</name><uri>https://www.metabd.cc/authors/guiruwen</uri></author><guid>https://www.metabd.cc/nfts/leprechauntown-wtf-v2-1/</guid>
-    <description><![CDATA[<div class="featured-image">
-                <img src="/leprechauntown-wtf-v2-1.jpg" referrerpolicy="no-referrer">
-            </div>LeprechaunTown_WTF 是一个 NFT（Non-fungible token）集合。存储在区块链上的数字艺术品集合。总共有 7,769 个 LeprechaunTown_WTF NFT。目前，2,139 位所有者的钱包]]></description>
 </item></channel>
 </rss>
